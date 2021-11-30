@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NSPC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <NSPC>
+    <NAMESPACE>/VTPR/</NAMESPACE>
+    <REPLICENSE>21297801921268090415</REPLICENSE>
+   </NSPC>
+   <NSPC_TEXT>
+    <SPRAS>P</SPRAS>
+    <DESCRIPTN>Name space VTPR - Configurações Produtos</DESCRIPTN>
+    <OWNER>Kleber</OWNER>
+   </NSPC_TEXT>
+  </asx:values>
+ </asx:abap>
+</abapGit>

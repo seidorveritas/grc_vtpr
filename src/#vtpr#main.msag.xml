@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>/VTPR/MAIN</ARBGB>
+    <MASTERLANG>P</MASTERLANG>
+    <STEXT>Mensagens Produto</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>/VTPR/MAIN</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>/VTPR/MAIN</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Verificando dependências: &amp; &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>/VTPR/MAIN</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Nenhuma informação selecionada com estes parâmetros de seleção</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>/VTPR/MAIN</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Preencher campos obrigatórios</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>/VTPR/MAIN</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Erro ao atualizar dados.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>/VTPR/MAIN</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Dados gravados com sucesso!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>/VTPR/MAIN</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>O arquivo &amp; não pôde ser aberto.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>/VTPR/MAIN</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Erro fazer upload do arquivo.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>/VTPR/MAIN</ARBGB>
+     <MSGNR>800</MSGNR>
+     <TEXT>Erro ao gerar novo nome para o objeto &amp; &amp; &amp; &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>/VTPR/MAIN</ARBGB>
+     <MSGNR>801</MSGNR>
+     <TEXT>O objeto &amp; &amp; &amp; &amp; já existe.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>/VTPR/MAIN</ARBGB>
+     <MSGNR>802</MSGNR>
+     <TEXT>Erro ao &amp; objeto &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>/VTPR/MAIN</ARBGB>
+     <MSGNR>803</MSGNR>
+     <TEXT>Não foi possível copiar o conteúdo. &amp; difere de &amp;</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
